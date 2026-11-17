@@ -1,0 +1,258 @@
+[
+  {
+    "file": "VID-20250416-WA0010.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 67.4,
+    "sourceDurationSeconds": 67.54,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250505-WA0009.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 19.76,
+    "sourceDurationSeconds": 19.85,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250521-WA0002.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 34.36,
+    "sourceDurationSeconds": 34.45,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250521-WA0008.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 22.8,
+    "sourceDurationSeconds": 22.89,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250716-WA0007.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 18.08,
+    "sourceDurationSeconds": 18.14,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250722-WA0007.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 203.68,
+    "sourceDurationSeconds": 203.73,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250731-WA0001.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 107.52000000000001,
+    "sourceDurationSeconds": 107.61,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250731-WA0014.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 75.6,
+    "sourceDurationSeconds": 75.75,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID-20250801-WA0005.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 59.44,
+    "sourceDurationSeconds": 59.58,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250819172959.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 64.44,
+    "sourceDurationSeconds": 64.53,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250821162422.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 8.72,
+    "sourceDurationSeconds": 8.83,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250821162436.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 116.72,
+    "sourceDurationSeconds": 116.84,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250912175154.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 15.0,
+    "sourceDurationSeconds": 15.08,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250912175236.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 19.76,
+    "sourceDurationSeconds": 19.82,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250912175418.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 23.4,
+    "sourceDurationSeconds": 23.51,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250912175517.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 29.88,
+    "sourceDurationSeconds": 29.97,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20250912175633.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 31.4,
+    "sourceDurationSeconds": 31.49,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260120164525.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 75.0,
+    "sourceDurationSeconds": 75.05,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260122135259.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 101.72,
+    "sourceDurationSeconds": 101.75999999999999,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260126153239.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 99.03999999999999,
+    "sourceDurationSeconds": 99.08,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260127144838.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 80.6,
+    "sourceDurationSeconds": 80.64,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260217154539.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 39.84,
+    "sourceDurationSeconds": 39.92,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260709200638.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 87.56,
+    "sourceDurationSeconds": 87.56,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260720175742.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 19.56,
+    "sourceDurationSeconds": 19.59,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID20260721181400.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 58.64,
+    "sourceDurationSeconds": 58.64,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250324_130840.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 37.32,
+    "sourceDurationSeconds": 37.41,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250324_130925.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 20.6,
+    "sourceDurationSeconds": 20.73,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250324_134410.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 30.08,
+    "sourceDurationSeconds": 30.2,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250415_144608.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 30.24,
+    "sourceDurationSeconds": 30.32,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250520_165104.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 43.76,
+    "sourceDurationSeconds": 43.81,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250523_125333.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 96.96000000000001,
+    "sourceDurationSeconds": 97.05,
+    "decodeCheck": true
+  },
+  {
+    "file": "VID_20250731_131839.mp4",
+    "codec": "h264",
+    "audioStreams": 0,
+    "durationSeconds": 24.52,
+    "sourceDurationSeconds": 24.55,
+    "decodeCheck": true
+  }
+]

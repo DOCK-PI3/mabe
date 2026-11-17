@@ -1,0 +1,7 @@
+.tools/
+web/_private/
+web/output/
+.playwright-cli/
+node_modules/
+.env
+*.log

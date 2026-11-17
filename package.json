@@ -1,0 +1,11 @@
+{
+  "name": "mabe-betancor-trabajos-reformas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mabe Betancor varios Trabajos y reformas · Las Palmas",
+  "scripts": {
+    "dev": "node web/tools/server.mjs",
+    "check": "node web/tools/check.mjs"
+  },
+  "engines": {"node": ">=18"}
+}
